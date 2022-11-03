@@ -1,0 +1,1 @@
+Note: Sometimes home page is not centered. It is completely random and I did not have enough time to fix it. I also did not have time to add a sign out button - have to remove cookies for now. All other issues addressed in reflection!
